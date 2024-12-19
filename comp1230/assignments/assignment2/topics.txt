@@ -1,0 +1,3 @@
+alice123:password123
+bob_smith:securePass!@#
+charlie77:charlie77Pass

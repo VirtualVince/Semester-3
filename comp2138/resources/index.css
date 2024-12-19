@@ -1,0 +1,63 @@
+.root {
+  -fx-font-family: 'Roboto';
+  -fx-background-color: #000;
+}
+
+.title {
+  -fx-font-size: 35;
+  -fx-font-weight: bold;
+}
+
+.label {
+  -fx-text-fill: white;
+}
+
+.container {
+  -fx-background-color: #050505;
+  -fx-background-radius: 12;
+  -fx-padding: 50;
+}
+
+.button,
+.text-field {
+  -fx-background-color: black;
+  -fx-text-fill: white;
+  -fx-font-size: 25;
+  -fx-background-radius: 20;
+  -fx-padding: 20 30 20 30;
+}
+
+.button:hover {
+  -fx-cursor: hand;
+}
+
+.error {
+  -fx-text-fill: red;
+}
+
+.success {
+  -fx-text-fill: green;
+}
+
+.tex {
+  -fx-font-size: 25;
+}
+
+.bold {
+  -fx-font-weight: bold;
+}
+
+.tex-big {
+  -fx-font-size: 30;
+}
+
+.card {
+  -fx-background-color: black;
+  -fx-padding: 35;
+  -fx-background-radius: 30;
+}
+
+.scroll-pane .viewport,
+.scroll-pane {
+  -fx-background-color: transparent;
+}

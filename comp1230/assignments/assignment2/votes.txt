@@ -1,0 +1,4 @@
+alice123|1|up
+bob_smith|2|down
+charlie77|1|up
+alice123|3|down

@@ -1,0 +1,14 @@
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/bin/Debug/net8.0/lab3
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/bin/Debug/net8.0/lab3.deps.json
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/bin/Debug/net8.0/lab3.runtimeconfig.json
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/bin/Debug/net8.0/lab3.dll
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/bin/Debug/net8.0/lab3.pdb
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.AssemblyInfoInputs.cache
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.AssemblyInfo.cs
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.csproj.CoreCompileInputs.cache
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.dll
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/refint/lab3.dll
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.pdb
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/lab3.genruntimeconfig.cache
+/Users/lailyajellu/Documents/comp2129/labs/lab3/lab3/obj/Debug/net8.0/ref/lab3.dll

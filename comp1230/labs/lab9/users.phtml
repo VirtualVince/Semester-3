@@ -1,0 +1,39 @@
+<!--
+- Controller file (Continued) -
+- .phtml files start off with a html scope,
+  but indicate that they are a mixture of html and php
+-->
+<!-- In Assignment 1 you had a php file, and you also added html into it
+  however, either .php or .phtml will work for the rendering of this file
+-->
+
+<?php include "view/inc/header.inc.php"; ?>
+
+<!-- User cannot type into this input.
+     The page value is actually set through clicking one of the navigation links
+     At the below input tag is doing, is setting the default page values for the users.phtml page-->
+<input type="hidden" name="page" value="users">
+
+<label>Filter by: </label>
+<?php
+foreach ($user_type as $single_user_type) {
+    echo "<input type='checkbox' name='user_type[]' value='$single_user_type'>" . $single_user_type;
+}
+?>
+
+<input type="submit" value="Go">
+</form>
+
+<table>
+    <thread>
+    <tr>
+        <th> ID </th>
+        <th> First </th>
+        <th> Last </th>
+        <th> User </th>
+        <th> Status </th>
+        <th> Client </th>
+    </tr>
+</thread>
+</table> 
+<?php include 'view/inc/footer.inc.php'; ?>
